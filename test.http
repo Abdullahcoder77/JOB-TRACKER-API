@@ -1,0 +1,3 @@
+
+GET http://localhost:3000/api/jobs
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhN2M5NmFkMThjNTFlNGFjNWE3OWU1NyIsImlhdCI6MTc4Njk1OTk1MSwiZXhwIjoxNzg2OTYzNTUxfQ.szMX6qorzmpGDQ9hyBfrl0AVlD4s_9d_ZTZpRkRDIH4
