@@ -1,6 +1,12 @@
 # JOB-TRACKER-API# 
 
 A RESTful API built with Node.js, Express, and MongoDB for tracking job applications. Features JWT authentication, pagination, filtering, sorting, and search functionality.
+## 🚀 Live Demo
+
+**Base URL:** `job-tracker-api-production-4bed.up.railway.app`
+
+> Test the API using the endpoints below with any REST client (Postman, Thunder Client, etc.)
+
 
 ## Features
 
